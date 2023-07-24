@@ -1,0 +1,14 @@
+.hoe{
+    justify-content: center;
+    font: bolder;
+    transform: translate(30%,35%);
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+.hoe a{
+    text-decoration: none;
+}

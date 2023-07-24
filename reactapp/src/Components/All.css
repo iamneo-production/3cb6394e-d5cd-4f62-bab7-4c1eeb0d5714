@@ -1,0 +1,19 @@
+.some{
+    transform: translate(9%,70%);
+ 
+}
+.some2{
+    transform: translate(40%,-30%);
+}
+.some3{
+    transform:translate(70%,-125%);
+}
+.some4{
+    transform:translate(9%,-70%)
+}
+.some5{
+    transform: translate(41%,-178%);
+}
+.some6{
+    transform:translate(70%,-260%);
+}

@@ -1,0 +1,11 @@
+.com{
+    transform: translate(20%,7%);
+    border-radius: 6px;
+}
+.new{
+    width: 1000px;
+    border: 6px;
+    padding: 50px;
+    margin: 20px;
+    border-color: black;
+}
